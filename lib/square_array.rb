@@ -1,2 +1,2 @@
 def square_array(array)
-  numbers.map { |e| e**2
+  numbers.map { |e| e**2 }
