@@ -5,6 +5,7 @@ numbers = numbers**2
 newArray<<numbers
 end
 newArray
+end
     
     
     
