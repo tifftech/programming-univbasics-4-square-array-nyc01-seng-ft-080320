@@ -1,3 +1,3 @@
 def square_array(numbers)
   new_numbers = []
-  numbers.each do 
+  numbers.each do |num|
