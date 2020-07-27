@@ -5,3 +5,6 @@ def square_array(numbers)
   while i < numbers.size
   result[i] = numbers[i] ** 2
   i += 1
+  
+end
+end
