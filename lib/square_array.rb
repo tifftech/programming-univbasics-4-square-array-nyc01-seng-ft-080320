@@ -1,1 +1,1 @@
-def square
+def square_array
