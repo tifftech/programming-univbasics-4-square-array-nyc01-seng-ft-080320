@@ -1,3 +1,9 @@
-def square_array(array)
-  numbers.map { |e| e**2 }
+def sq(arr)
+  enum = arr.each
+  a = []
+  loop do
+    n = enum.next
+    a << n*n
+  end
+  a
 end
