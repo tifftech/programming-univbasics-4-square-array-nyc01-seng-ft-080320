@@ -6,6 +6,10 @@ newArray<<numbers
 end
 newArray
 end
+
+
+
+
     
     
     
