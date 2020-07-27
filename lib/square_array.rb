@@ -1,2 +1,2 @@
 def square_array(numbers)
-  result = Array
+  result = Array.new
